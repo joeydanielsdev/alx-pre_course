@@ -1,1 +1,1 @@
-MY first readme
+Committed to being great
